@@ -12,3 +12,6 @@
  - [gsap](https://greensock.com/gsap/)
  - [scrollrevealjs](https://scrollrevealjs.org/)
  - [woojs](https://wowjs.uk/)
+ - [aos](http://michalsnik.github.io/aos/)
+
+
